@@ -1,0 +1,9 @@
+.custom-modal{
+    text-align: center;
+}
+.custom-modal h1{
+    padding-bottom: 1rem;
+}
+.custom-modal p{
+    font-size: 20px;
+}
